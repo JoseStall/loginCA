@@ -1,0 +1,21 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "first_name": "Christophe",
+      "last_name": "Germain",
+      "nick_name": "kiki",
+      "email": "g@g.g",
+      "password": "mdpmdp",
+      "token": "admin"
+    },
+    {
+      "first_name": "Guillaume",
+      "last_name": "Delory",
+      "nick_name": "José",
+      "email": "g.delory62@gmail.com",
+      "password": "mdpmdp",
+      "id": 2
+    }
+  ]
+}
